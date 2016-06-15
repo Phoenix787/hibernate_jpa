@@ -1,0 +1,12 @@
+2016-06-14 23:09:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "DETAIL" не найдена
+Table "DETAIL" not found; SQL statement:
+select detail0_.id as id1_0_0_, detail0_.caption as caption2_0_0_ from Detail detail0_ where detail0_.id=? [42102-190]
+2016-06-14 23:10:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "DETAIL" не найдена
+Table "DETAIL" not found; SQL statement:
+select detail0_.id as id1_0_0_, detail0_.caption as caption2_0_0_ from Detail detail0_ where detail0_.id=? [42102-190]
+2016-06-14 23:10:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "DETAIL" не найдена
+Table "DETAIL" not found; SQL statement:
+select detail0_.id as id1_0_0_, detail0_.caption as caption2_0_0_ from Detail detail0_ where detail0_.id=? [42102-190]
